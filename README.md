@@ -9,3 +9,4 @@ fsdajsdfa
 fsdajh
 sdafffhsda
 sdafjfsda\
+This is a dummy repo created for learning purposes.
